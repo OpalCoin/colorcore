@@ -1,3 +1,3 @@
-openassets==1.3
-python-bitcoinlib==0.2.1
+git+https://github.com/opalcoin/openassets-opal.git#egg=openassets-opal
+git+https://github.com/opalcoin/python-opalcoinlib.git#egg=python-opalcoinlib
 aiohttp==0.9.2
